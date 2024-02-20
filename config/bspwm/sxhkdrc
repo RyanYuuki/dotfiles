@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + shift + Return
-  kitty --config ~/.config/bspwm/apps/kitty/kitty.conf
+  alacritty 
 
 super + d
   ~/.config/bspwm/apps/rofi/launch
@@ -30,7 +30,7 @@ super + Escape
 #	flameshot gui
 
 super + shift + f 
-  firefox
+  brave
 
 super + shift + d
   nemo
